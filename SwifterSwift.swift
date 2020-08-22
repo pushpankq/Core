@@ -2,8 +2,8 @@
 //  SwifterSwift.swift
 //  SwifterSwift
 //
-//  Created by Omar Albeik on 8/8/16.
-//  Copyright © 2016 Omar Albeik. All rights reserved.
+//  Created by Pushpank Kumar on 8/8/16.
+//  Copyright © 2016 Pushpank Kumar. All rights reserved.
 //
 
 #if os(iOS) || os(tvOS)
